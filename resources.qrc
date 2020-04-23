@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Island Resorts logo.png</file>
+        <file>images/Island Resorts logo 2.PNG</file>
+        <file>images/American_Express_logo.png</file>
+        <file>images/discover_logo.png</file>
+        <file>images/mastercard_logo.jpg</file>
+        <file>images/VISA_logo.jpg</file>
+    </qresource>
+</RCC>
